@@ -4,29 +4,29 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Exploit Notes | Exploit Notes</title>
+        <title>Readloud.io | Readloud.io</title>
         <meta name="description" content="Sticky notes for pentesting. Search hacking techniques and tools for penetration testings, bug bounty, CTFs.">
         
-        <link rel="icon" type="image/x-icon" href="/assets/img/favicon-32.png">
+        <link rel="icon" type="image/x-icon" href="/assets/img/favicon-32x32.png">
         <link rel="stylesheet" href="/styles.css">
         <link rel="stylesheet" href="/css/carbonads.css">
         
 
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:site" content="@hideckies">
-        <meta name="twitter:creator" content="@hideckies">
-        <meta property="og:url" content="https://exploit-notes.hdks.org/404">
-        <meta property="og:title" content="Exploit Notes | Exploit Notes">
+        <meta name="twitter:site" content="@readloud">
+        <meta name="twitter:creator" content="@readloud">
+        <meta property="og:url" content="https://readloud.github.io/404">
+        <meta property="og:title" content="Readloud.io | Readloud.io">
         <meta property="og:description" content="Sticky notes for pentesting. Search hacking techniques and tools for penetration testings, bug bounty, CTFs.">
-        <meta property="og:image" content="https://exploit-notes.hdks.org/img/screenshot.png">
+        <meta property="og:image" content="/assets/img/inbox-zero-dark-377cc25a227f.svg">
         
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-RR6XYHYTQ9"></script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=GTM-K6GHSK2"></script>
         <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
 
-        gtag('config', 'G-RR6XYHYTQ9');
+        gtag('config', 'GTM-K6GHSK2');
         </script>
     </head>
 
@@ -41,7 +41,7 @@
         >
             <a href="/">
                 <span class="text-sm text-white font-bold">
-                    Exploit Notes
+                    readloud
                 </span>
             </a>
             
@@ -53,7 +53,7 @@
 
             
             <a
-                href="https://github.com/hideckies/exploit-notes"
+                href="https://github.com/readloud"
                 target="_blank"
                 rel="noopener noreferrer"
                 alt="GitHub"
@@ -79,7 +79,7 @@
 
             
             <a
-                href="https://twitter.com/hideckies"
+                href="https://twitter.com/readloud"
                 target="_blank"
                 rel="noopener noreferrer"
                 alt="Twitter"
@@ -93,7 +93,7 @@
 
             
             <a
-                href="https://ko-fi.com/hideckies"
+                href="https://ko-fi.com/readloud"
                 target="_blank"
                 rel="noopener noreferrer"
                 alt="Ko-fi"
@@ -160,13 +160,14 @@
         });
     });
 </script>
+
         <nav class="nav-links hidden">
     <div class="w-full flex flex-col gap-y-4">
         <div>
             <h3 class="my-4 text-base text-white opacity-60">SOCIAL</h3>
             <div class="w-full flex flex-col gap-y-1">
                 <a
-                    href="https://github.com/hideckies/exploit-notes"
+                    href="https://github.com/readloud"
                     target="_blank"
                     rel="noopener noreferrer"
                     class="text-lg"
@@ -174,7 +175,7 @@
                     GitHub
                 </a>
                 <a
-                    href="https://twitter.com/hideckies"
+                    href="https://twitter.com/readloud"
                     target="_blank"
                     rel="noopener noreferrer"
                     class="text-lg"
@@ -182,7 +183,7 @@
                     Twitter
                 </a>
                 <a
-                    href="https://ko-fi.com/hideckies"
+                    href="https://ko-fi.com/readloud"
                     target="_blank"
                     rel="noopener noreferrer"
                     class="text-lg"
@@ -209,28 +210,36 @@
             <h3 class="my-4 text-base text-white opacity-60">OTHER TOOLS</h3>
             <div class="w-full flex flex-col gap-y-1">
                 <a
-                    href="https://security-links.hdks.org/"
+                    href="https://github.com/readloud?tab=repositories"
                     target="_blank"
                     rel="noopener noreferrer"
                     class="text-lg"
                 >
-                    Security Links
+                    Repositories
                 </a>
                 <a
-                    href="https://github.com/hideckies/hermit"
+                    href="https://readloud.github.io/Mastering-Kali-Linux-for-Advanced-Penetration-Testing-4E"
                     target="_blank"
                     rel="noopener noreferrer"
                     class="text-lg"
                 >
-                    Hermit C2
+                    Advanced PeneTest 4E
                 </a>
                 <a
-                    href="https://github.com/hideckies/fuzzagotchi"
+                    href="https://readloud.github.io/index-of-ISO"
                     target="_blank"
                     rel="noopener noreferrer"
                     class="text-lg"
                 >
-                    Fuzzagotchi
+                    ISO Archive
+                </a>
+                <a
+                    href="https://readloud.github.io/faucetmonitor"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="text-lg"
+                >
+                    Faucetmonitor
                 </a>
             </div>
         </div>
@@ -257,6 +266,7 @@
         color: var(--color-khaki);
     }
 </style>
+
         <main class="w-full h-full">
             <div class="w-screen h-[80vh] bg-black flex flex-col items-center">
     <div class="mx-0 my-42 w-1/2">
@@ -280,19 +290,19 @@
             <h3 class="text-sm opacity-60">SOCIALS</h3>
             <div class="w-full flex flex-col lg:flex-row items-start lg:items-center gap-y-2 lg:gap-3">
                 <a
-                    href="https://github.com/hideckies/exploit-notes"
+                    href="https://github.com/readloud"
                     target="_blank"
                     rel="noopener noreferrer">
                     GitHub
                 </a>            
                 <a
-                    href="https://twitter.com/hideckies"
+                    href="https://twitter.com/readloud"
                     target="_blank"
                     rel="noopener noreferrer">
                     Twitter
                 </a>
                 <a
-                    href="https://ko-fi.com/hideckies"
+                    href="https://ko-fi.com/readloud"
                     target="_blank"
                     rel="noopener noreferrer">
                     Support Me
@@ -312,28 +322,35 @@
             <h3 class="text-sm opacity-60">OTHER TOOLS</h3>
             <div class="w-full flex flex-col lg:flex-row lg:flex-wrap items-start lg:items-center gap-y-2 lg:gap-3">
                 <a
-                    href="https://security-links.hdks.org/"
+                    href="https://github.com/readloud?tab=repositories"
                     target="_blank"
                     rel="noopener noreferrer">
-                    Security Links
+                    Repositories
                 </a>
                 <a
-                    href="https://github.com/hideckies/hermit"
+                    href="https://readloud.github.io/Mastering-Kali-Linux-for-Advanced-Penetration-Testing-4E"
                     target="_blank"
                     rel="noopener noreferrer">
-                    Hermit C2
+                    Advanced PeneTest 4E
                 </a>
                 <a
-                    href="https://github.com/hideckies/fuzzagotchi"
+                    href="https://readloud.github.io/index-of-ISO"
                     target="_blank"
                     rel="noopener noreferrer">
-                    Fuzzagotchi
+                    ISO Archive
+                </a>
+                <a
+                    href="https://readloud.github.io/faucetmonitor"
+                    target="_blank"
+                    rel="noopener noreferrer">
+                    Faucetmonitor
                 </a>
             </div>
         </div>
 
     </div>
 </footer>
+
     </body>
 
     <script type="text/javascript" src="/js/hamburger.js"></script>
