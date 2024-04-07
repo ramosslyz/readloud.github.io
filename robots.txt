@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
-
-Sitemap: http://readloud.github.io/sitemap.xml
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://readloud.github.io/sitemap.xml
